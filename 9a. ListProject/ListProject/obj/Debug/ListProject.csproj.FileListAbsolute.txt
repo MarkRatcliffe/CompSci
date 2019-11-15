@@ -1,0 +1,7 @@
+S:\Computing\3 Student Access - Read Only\computer-science-resources\mbr\master\9a. ListProject\ListProject\bin\Debug\ListProject.exe.config
+S:\Computing\3 Student Access - Read Only\computer-science-resources\mbr\master\9a. ListProject\ListProject\bin\Debug\ListProject.exe
+S:\Computing\3 Student Access - Read Only\computer-science-resources\mbr\master\9a. ListProject\ListProject\bin\Debug\ListProject.pdb
+S:\Computing\3 Student Access - Read Only\computer-science-resources\mbr\master\9a. ListProject\ListProject\obj\Debug\ListProject.csprojAssemblyReference.cache
+S:\Computing\3 Student Access - Read Only\computer-science-resources\mbr\master\9a. ListProject\ListProject\obj\Debug\ListProject.csproj.CoreCompileInputs.cache
+S:\Computing\3 Student Access - Read Only\computer-science-resources\mbr\master\9a. ListProject\ListProject\obj\Debug\ListProject.exe
+S:\Computing\3 Student Access - Read Only\computer-science-resources\mbr\master\9a. ListProject\ListProject\obj\Debug\ListProject.pdb
