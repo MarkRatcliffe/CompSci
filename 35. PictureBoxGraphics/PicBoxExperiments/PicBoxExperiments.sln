@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PicBoxExperiments", "PicBoxExperiments\PicBoxExperiments.csproj", "{DA208B24-3445-4964-A182-1225882BE8A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA208B24-3445-4964-A182-1225882BE8A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA208B24-3445-4964-A182-1225882BE8A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA208B24-3445-4964-A182-1225882BE8A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA208B24-3445-4964-A182-1225882BE8A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
