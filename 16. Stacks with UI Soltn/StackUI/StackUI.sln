@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackUI", "StackUI\StackUI.csproj", "{3573DE11-4F89-4DFE-A3FD-F170FF2232B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackUITests", "StackUITests\StackUITests.csproj", "{253A7A59-4CB9-40D3-8685-B40B5561DAB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3573DE11-4F89-4DFE-A3FD-F170FF2232B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3573DE11-4F89-4DFE-A3FD-F170FF2232B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3573DE11-4F89-4DFE-A3FD-F170FF2232B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3573DE11-4F89-4DFE-A3FD-F170FF2232B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{253A7A59-4CB9-40D3-8685-B40B5561DAB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{253A7A59-4CB9-40D3-8685-B40B5561DAB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{253A7A59-4CB9-40D3-8685-B40B5561DAB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{253A7A59-4CB9-40D3-8685-B40B5561DAB3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

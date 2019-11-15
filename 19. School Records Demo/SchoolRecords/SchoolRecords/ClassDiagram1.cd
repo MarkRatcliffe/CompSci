@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="SchoolRecords.Person">
+    <Position X="1" Y="0.5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAgQAAEAAAAAAAAAAAEIABEAAAEAgAAAAA=</HashCode>
+      <FileName>Person.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SchoolRecords.Students">
+    <Position X="9" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Students.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SchoolRecords.Student">
+    <Position X="4" Y="5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACCIAAAAAAAAAAAQAAAAAAAIAAAAAAAAAQAA=</HashCode>
+      <FileName>Student.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SchoolRecords.Teacher">
+    <Position X="0.5" Y="5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>Teacher.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SchoolRecords.Subjects">
+    <Position X="9.5" Y="0.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AEAACAQACAAAAAAEAAAAAAAAAAACAAAAAAIAAAAAAIA=</HashCode>
+      <FileName>Subjects.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SchoolRecords.Address">
+    <Position X="4.75" Y="0.5" Width="4.5" />
+    <TypeIdentifier>
+      <HashCode>AAgCAAAgAAAAAAAEBAAAIAAAAAAAAgAAAAAAQAAEgII=</HashCode>
+      <FileName>Address.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
