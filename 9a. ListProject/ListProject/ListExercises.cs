@@ -64,6 +64,8 @@ namespace ListProject
         }
 
         // RemoveByPosition(int position)
+        // Before you code this, break down into a series of algorithm steps
+        // Do it on paper first
         public bool RemoveByPosition(int position)
         {
             // not yet implemented
@@ -74,10 +76,14 @@ namespace ListProject
         public String GetListAsString()
         {
             string temp = "";
+
+
+
              for (int i = 0; i < nextFreeLocation; i++)
             {
                 temp = temp + names[i] + "\n";
             }
+
             return temp;
         }
     }
