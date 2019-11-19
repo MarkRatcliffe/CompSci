@@ -12,6 +12,7 @@ namespace Conversation
         {
             string userName = "";
             int userAge = 0;
+
             int currentYear = 0;
 
             Console.Write("Please enter your name: ");
