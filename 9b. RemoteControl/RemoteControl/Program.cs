@@ -48,6 +48,7 @@ namespace RemoteControl
                         break;
                 }
             } while (option != 4);
+
             Console.WriteLine("Bye");
             Console.ReadLine(); // keep screen visible to allow user to read then die
         }
