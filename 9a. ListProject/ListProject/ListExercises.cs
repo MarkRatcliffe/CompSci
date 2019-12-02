@@ -40,7 +40,7 @@ namespace ListProject
             }
            
             // now do shunting - step 2 above
-            for (int i = nextFreeLocation; i > position; i++)
+            for (int i = nextFreeLocation; i > position; i--)
             {
                 names[i] = names[i - 1];
             }
