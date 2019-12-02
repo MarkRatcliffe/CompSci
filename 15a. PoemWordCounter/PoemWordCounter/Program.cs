@@ -2,15 +2,29 @@
 
 namespace PoemWordCounter
 {
-    class Program
+    public class Program
     {
-        WordCounter dictionary = new WordCounter(100);
+        
 
         static void Main(string[] args)
         {
-             // read in line of text
+            WordCounter dictionary = new WordCounter(100);
+            string currentWord = "";
+
+             // I should read in line of text
              // process line of text, looking for individual words
                    // for each word for WordCounter AddString
+
+             // start with just a word at a time :-)
+             while (currentWord != "STOP")
+            {
+                currentWord = Console.ReadLine();
+                if (currentWord != "STOP")
+                {
+                    dictionary.AddString(currentWord);
+
+                }
+            }
 
         }
     }
