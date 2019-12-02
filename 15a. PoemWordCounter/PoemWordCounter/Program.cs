@@ -5,27 +5,25 @@ namespace PoemWordCounter
     public class Program
     {
         
-
         static void Main(string[] args)
         {
             WordCounter dictionary = new WordCounter(100);
             string currentWord = "";
 
-             // I should read in line of text
-             // process line of text, looking for individual words
-                   // for each word for WordCounter AddString
+            Console.WriteLine("Enter you words, one per line, ending with STOP");
 
              // start with just a word at a time :-)
-             while (currentWord != "STOP")
+            while (currentWord != "STOP")
             {
                 currentWord = Console.ReadLine();
                 if (currentWord != "STOP")
                 {
                     dictionary.AddString(currentWord);
-
                 }
             }
-
+            // Now let's print it all out - by autocalling ToString
+            Console.WriteLine(dictionary);
+            Console.ReadLine();
         }
     }
 }

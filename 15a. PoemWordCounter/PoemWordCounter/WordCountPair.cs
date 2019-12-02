@@ -9,8 +9,14 @@ namespace PoemWordCounter
         private String word;
         private int count;
 
-        // simple sets and gets for the class
+        // constructor for creating a WordCountPair
+        public WordCountPair (string theWord, int theCount)
+        {
+            word = theWord;
+            count = theCount;
+        }
 
+        // simple sets and gets for the class
         // SetWord allows a user to set the Word element of Word Count pair
         public void SetWord(String theWord)
         {
@@ -34,6 +40,11 @@ namespace PoemWordCounter
         public int GetCount()
         {
             return count;
+        }
+
+        public override string ToString()
+        {
+            return word + "  " + count;
         }
 
         // CompareTo allows a user to compare a String with WordCount pair
