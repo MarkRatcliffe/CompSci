@@ -32,6 +32,8 @@ namespace Searching
         {
             resultsLabel1.Text = " ";
             resultsLabel2.Text = " ";
+
+            // currently using serialSearch
             int result = mySearching.serialSearch(theListToSearch, searchText.Text);
             if (result == -1)
             {
@@ -53,7 +55,5 @@ namespace Searching
                 theListToSearch[lineNum] = stringList.Lines[lineNum];
             }
         }
-
-
     }
 }
